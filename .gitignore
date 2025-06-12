@@ -1,0 +1,18 @@
+# Obsidian files
+.obsidian/
+
+# Common system files
+.DS_Store
+Thumbs.db
+
+# Node modules
+node_modules/
+
+# Environment files
+.env
+.env.local
+
+# Build artifacts
+dist/
+build/
+Welcome.md

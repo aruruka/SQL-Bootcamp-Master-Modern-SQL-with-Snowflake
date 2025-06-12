@@ -1,0 +1,167 @@
+title = "Master SQL syntax, SQL optimization, and SQL data modeling with Snowflake in this complete course for all skill levels"
+rating = 4.5
+reviews = 223
+students = 1566
+total_hours = 6
+last_updated = "November 2024"
+languages = ["English", "English [Auto]", "French [Auto]"]
+
+[description]
+paragraphs = [
+    "Welcome to The Complete SQL Bootcamp: Master Modern SQL with Snowflake! The only course you need to learn one of the most in-demand data skills in today's workplace.",
+    "If we look at our modern data landscape we can see SQL everywhere, powering relational databases like MySQL and Postgres, enabling cloud-based analytics through platforms like BigQuery and Snowflake and even serving as interfaces for Big Data tools like Spark and Hadoop.",
+    "This course offers a one-stop shop for students of any skill level to learn all the essential SQL syntax and features, grounded in a deep understanding of how SQL has evolved to meet modern demands, such as cloud computing and Big Data.",
+    "Using the powerful cloud-native data platform Snowflake, we'll analyse synthetic and real-world data through a combination of bite-sized theory lectures and hands-on exercises — equipping you with everything you need to become a SQL expert fit for the modern world!",
+    "We accomplish this using a FREE trial account provided by Snowflake, which takes just a few minutes to set up!"
+]
+
+[what_you_ll_learn]
+items = [
+    "The SQL language's history and context in the current data landscape",
+    "Experience working with and understanding both synthetic and real-world data",
+    "Learn how to analyse data with a variety of beginner to advanced SQL features",
+    "SQL Scalar & Aggregate Functions: SUM, AVG, RANDOM, ABS, COUNT, YEAR and many more",
+    "Advanced SQL concepts: Window Functions, Collation, Transactions and many more",
+    "SQL Custom functions: User-defined Functions and Stored Procedures",
+    "SQL Data Definition Language (DDL) commands: CREATE, USE, SHOW, DESCRIBE, DROP & ALTER",
+    "SQL Data Manipulation Language (DML) commands: INSERT, UPDATE, DELETE, TRUNCATE & MERGE",
+    "Learn to optimize SQL queries for faster execution and efficient resource usage",
+    "Introduction to Snowflake, Cloud-Based SQL, and the Lakehouse Data Architecture",
+    "Foundational Database / Data Engineering concepts: Character Encoding, Access Control, Data Lifecycle and more",
+    "Intermediate SQL Querying topics: Subqueries, Joining, Set Operators and many more"
+]
+
+[why_choose_this_course]
+items = [
+    "6+ hours of high-quality content comprised of bite-sized videos of around 5 minutes, so you get what you need without the fluff!",
+    "Theory lectures that include architectural diagrams, graphics, code snippets, and overview slides to bookmark and study.",
+    "Interactive hands-on content in the Snowflake UI with a focus on ANSI-standard SQL code.",
+    "Experience working with and understanding both synthetic and real-world data.",
+    "A folder full of SQL code to accompany hands-on videos that you can run, edit and share!",
+    "A review quiz at the end of each section to reinforce the practical and theoretical concepts you've just studied.",
+    "Learn SQL in the context of modern data challenges like Big Data and the Cloud.",
+    "The perspective of a SQL professional instructor through the Q&A section.",
+    "Earn a certificate of completion when you complete the course to showcase your expertise."
+]
+
+[[what_will_you_cover]]
+title = "1. Course Setup"
+topics = [
+    "Create a free Snowflake trial account.",
+    "Download the hands-on SQL code.",
+    "Learn study methods to help it all go in and stay in!"
+]
+
+[[what_will_you_cover]]
+title = "2. Introduction to SQL and Snowflake"
+topics = [
+    "Learn about SQL's historical context and how it fits into the modern data landscape.",
+    "Have a crash course on Snowflake, the cloud-native data platform we'll be using for the course.",
+    "Have an introduction to the technical aspects of the SQL language.",
+    "Additional database concepts like the object model and access control."
+]
+
+[[what_will_you_cover]]
+title = "3. Data Definition Language (DDL)"
+topics = [
+    "Learn SQL statements used to create and modify objects: CREATE, USE, SHOW, DESCRIBE, DROP & ALTER.",
+    "Learn about Data Types.",
+    "Learn about Constraints.",
+    "Have an introduction to SQL Syntax Best Practices."
+]
+
+[[what_will_you_cover]]
+title = "4. Data Manipulation Language (DML)"
+topics = [
+    "Learn about SQL statements to generate and modify data: INSERT, UPDATE, DELETE, TRUNCATE & MERGE.",
+    "Learn the process of loading large amounts of data with Snowflake features: Stages, File Formats, COPY INTO <table>."
+]
+
+[[what_will_you_cover]]
+title = "5. Query Fundamentals"
+topics = [
+    "Learn the many individual clauses of the select statement in detail: SELECT, FROM, WHERE, ORDER BY, GROUP BY & HAVING.",
+    "Learn about scalar and aggregate SQL functions.",
+    "Have an introduction to User-defined functions."
+]
+
+[[what_will_you_cover]]
+title = "6. Intermediate Querying"
+topics = [
+    "Learn to combine table attributes with the JOIN clause.",
+    "Learn to modularise our SQL code with Subqueries.",
+    "Learn about Set Operators to compare result sets.",
+    "Learn about Conditional Expressions to control the flow of our data.",
+    "Learn about the View database object.",
+    "Learn about how to convert from one data type to another with Casting."
+]
+
+[[what_will_you_cover]]
+title = "7. SQL Query Performance"
+topics = [
+    "Learn about the database Order Of Execution to help conceptualise how the database engine processes statements.",
+    "Learn about best practices when using different SQL clauses: JOIN, ORDER BY, WHERE and GROUP BY.",
+    "Learn how to use the EXPLAIN command and Snowflake's Query Profile Tool.",
+    "Learn about Snowflake-specific features for improving query performance: Caching and Materialized Views."
+]
+
+[[what_will_you_cover]]
+title = "8. Advanced SQL Features"
+topics = [
+    "Learn about Window Functions and Window Frames.",
+    "Learn about Common Table Expressions (CTEs) and Recursive CTEs.",
+    "Learn about Transactions.",
+    "Learn about Collation.",
+    "Learn about User-defined Functions (UDFs) and Stored Procedures."
+]
+
+[[what_will_you_cover]]
+title = "9. Processing Semi-structured Data"
+topics = [
+    "Have a crash course into what semi-structured data is.",
+    "Learn how to load semi-structured data and what their unique considerations are.",
+    "Learn how to query and access semi-structured data.",
+    "Learn what functions are unique for accessing semi-structured data.",
+    "Learn what are the unique considerations for loading binary semi-structured data."
+]
+
+[call_to_action]
+message = "One last thing - I'd love to hear from you! Share your experience taking the course by messaging me on Udemy or through LinkedIn. You can find me by searching 'Tom Bailey • Udemy Instructor'."
+enrollment_prompt = "Ready to transform your SQL skills? Enrol now to get lifetime access to this comprehensive course and start mastering SQL for the modern data landscape today!"
+
+[who_this_course_is_for]
+items = [
+    "This course is ideal for anyone looking to learn SQL to enhance their current job performance or pursue new career opportunities. SQL remains one of the most sought-after skills in today's job market.",
+    "Experienced technology professionals in the fields of Data Engineering, Data Science & Data Analysis looking to take their Cloud and SQL skills to the next level.",
+    "Professionals in data steward roles e.g. Project Managers. Getting closer to the technology can help make data-driven decisions and improve communication with technical team members.",
+    "University & high school students studying SQL for the first time."
+]
+
+[instructor]
+name = "Tom Bailey"
+title = "Instructor • AWS, Kafka & Snowflake Certified Developer"
+bio = """
+Hi! My name is Tom Bailey. Thanks for checking out my 'About me' section.
+I've worked in technology consulting for nearly a decade, helping a diverse range of clients in industries from automotive to consumer goods transform their business needs into robust technical solutions. I've assumed many roles during that time, but I'm primarily interested in cloud data & software engineering!
+As a consultant I've had to move from project to project, which always brings with it the necessity and opportunity to learn. This is one aspect of my job that I've always loved; picking up new technologies, learning their ins and outs and delivering a creative and practical solution.
+I've worked with early big data systems like Cloudera, HortonWorks, HBase and Spark and more recently streaming & cloud technologies like Amazon Web Services, Apache Kafka and Snowflake. I've been fortunate enough to earn:
+"""
+certifications = [
+    "the AWS Certified Developer Associate certification,",
+    "the Confluent Certified Developer for Apache Kafka certification,",
+    "Snowflake's SnowPro Core certification and",
+    "Snowflake's SnowPro Advanced Data Engineer certification."
+]
+closing_message = """
+Learning coupled with regularly hosting demonstrations and brown-bag sessions really ignited in me a passion for teaching. My personal teaching methodology leans more towards emphasising and building real-world skills, not just reciting facts.
+It brings me a lot of joy to help others excel in their career and see them thrive, so please reach out if you've taken one of my courses, I'd love to hear from you. The best way to do that is to message me on LinkedIn or tag me in a post telling me about your experience with the course or the result of a certification you're going for.
+
+Thanks for taking the time to get to know me. If you'd like to get in touch, please do not hesitate.
+"""
+
+[requirements]
+items = [
+    "No prior programming experience required. Everything you need to become a SQL expert is contained in this all-in-one course.",
+    "No Snowflake experience required. A short crash course will be provided, along with a detailed hands-on getting you set up with a FREE account.",
+    "All you need is a browser for this course. Mac, PC and Linux users are all welcome."
+]
