@@ -389,7 +389,7 @@ Throughout this section, several terms with similar or related meanings have bee
     *   **Non-Enforced Constraints**: Rules that are defined in the DDL for compatibility or metadata purposes but are *not* actively checked by the database system (e.g., `PRIMARY KEY`, `UNIQUE`, `FOREIGN KEY` in Snowflake).
 
 ## Personal Notes
-
+- [[Differencs-Between-CREATE-TABLE-AS-SELECT-and-CREATE-TABLE-LIKE]]
 
 ## Questions
 
